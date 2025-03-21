@@ -1,0 +1,38 @@
+git:
+  guru:
+    nacos:
+      server:
+        url: localhost:8848
+    mysql:
+      url: jdbc:mysql://localhost:3306/gitguru
+      username: root
+      password: '123456'
+#    redis:
+#      url: r-bp1psmwd2i351smkmjpd.redis.rds.aliyuncs.com  # nft.turbo.redis.url - Redis 的地址 #首次启动前务必修改成你自己的
+#      port: 6379  # nft.turbo.redis.port - Redis 的端口号 #首次启动前务必修改成你自己的
+#      password: 'NFTurbo666' # nft.turbo.redis.password - Redis 的密码 #首次启动前务必修改成你自己的
+#    elasticsearch:
+#      enable: false # nft.turbo.elasticsearch.enable #如果你要使用es(没有启动一键mock)，这里需要改成true
+#      url: 116.62.53.29:9200 # nft.turbo.elasticsearch.url - ElasticSearch 的地址+端口号 ##如果你要使用es(没有启动一键mock)，这里需要改成true
+#      username: elastic # nft.turbo.elasticsearch.username - ElasticSearch 的用户名 ##如果你要使用es(没有启动一键mock)，这里需要改成true
+#      password: 123456  # nft.turbo.elasticsearch.password - ElasticSearch 的密码 ##如果你要使用es(没有启动一键mock)，这里需要改成true
+#    xxl-job:
+#      url: 121.43.110.201:23333  # nft.turbo.xxl-job.url - XXL-JOB 的地址 # 如果你要用他，这里需要改成你自己的
+#      appName: xxl-job-executor  # nft.turbo.xxl-job.appName - 需要和你在xxl-job上创建的执行器名字保持一致，这里需要改成你自己的
+#      accessToken: default_token # nft.turbo.xxl-job.accessToken - 需要和你在xxl-job上创建的token保持一致，这里需要改成你自己的
+#    sentinel:
+#      url: 114.55.55.45:8099 # nft.turbo.sentinel.url - Sentinel 的地址+端口号 # 如果用了sentinel 这里需要改成你自己的sentinel的控制台地址
+#      port: 8098 # nft.turbo.sentinel.port - Sentinel 端口号 # 如果用了sentinel 这里需要改成你自己的sentinel的端口号
+#      nacos:
+#        data-id: nfturbo-gateway-sentinel # nft.turbo.sentinel.nacos.data-id - Sentinel配置保存的 nacos 的 data-id # 如果用了sentinel 这里需要改成你自己的 在nacos上定义的data-id
+#    rocketmq:
+#      url: 121.43.110.201:9876 # nft.turbo.rocketmq.url - RocketMQ 的地址+端口号 # 如果你要用RocketMQ，这里需要改成你自己的
+#    dubbo:
+#      nacos:
+#        namespace: aa1c1c78-52b1-4ea7-b8fb-c50075b2f26d  # nft.turbo.dubbo.nacos.namespace - 自己到nacos上创建一个给dubbo用的namespce，然后和这里保持一致，首次启动前务必修改成你自己的 #首次启动前务必修改成你自己的
+#        group: dubbo1  # nft.turbo.dubbo.nacos.group - 自己到nacos上创建一个给dubbo用的 group，然后和这里保持一致，首次启动前务必修改成你自己的 #首次启动前务必修改成你自己的
+#    seata:
+#      nacos:
+#        data-id: seataServer.properties # nft.turbo.seata.nacos.data-id - Seata 对应的Nacos 保存配置的 data-id #首次启动前务必修改成你自己的
+#        group: seata # nft.turbo.seata.nacos.group - Seata 对应的Nacos 保存配置的 data-id #首次启动前务必修改成你自己的
+#        namespace: 7ebdfb9b-cd9d-4a5e-8969-1ada0bb9ba04 # nft.turbo.seata.nacos.namespace - Seata 对应的Nacos 保存配置的 namespace #首次启动前务必修改成你自己的
