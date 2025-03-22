@@ -18,8 +18,6 @@ public class UserRegisterRequest extends BaseRequest {
 
     private String telephone;
 
-    private String inviteCode;
-
     private String password;
 
 }

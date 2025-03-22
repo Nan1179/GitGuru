@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.wx</groupId>
+        <groupId>com.donnan</groupId>
         <artifactId>git-guru-common</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
@@ -16,5 +16,30 @@
         <maven.compiler.target>21</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <dependencies>
+
+        <dependency>
+            <groupId>com.donnan</groupId>
+            <artifactId>git-guru-base</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.donnan</groupId>
+            <artifactId>git-guru-sa-token</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.donnan</groupId>
+            <artifactId>git-guru-cache</artifactId>
+        </dependency>
+
+        <!--    Spring Boot Web   -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+    </dependencies>
 
 </project>

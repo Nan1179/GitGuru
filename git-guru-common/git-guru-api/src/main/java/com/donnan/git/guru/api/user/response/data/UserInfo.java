@@ -38,11 +38,6 @@ public class UserInfo extends BasicUserInfo {
     private UserRole userRole;
 
     /**
-     * 邀请码
-     */
-    private String inviteCode;
-
-    /**
      * 注册时间
      */
     private Date createTime;
