@@ -14,12 +14,12 @@ spring:
             allowedMethods: '*'
             allowedOrigins: '*'
       routes:
-        - id: nfturbo-auth
-          uri: lb://nfturbo-auth
+        - id: git-guru-auth
+          uri: lb://git-guru-auth
           predicates:
             - Path=/auth/**,/token/**
-        - id: nfturbo-business
-          uri: lb://nfturbo-business
+        - id: git-guru-service
+          uri: lb://git-guru-service
           predicates:
             - Path=/trade/**,/order/**,/user/**,/collection/**,/wxPay/**,/box/**
 server:

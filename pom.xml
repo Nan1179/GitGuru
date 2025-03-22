@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.wx</groupId>
+    <groupId>com.donnan</groupId>
     <artifactId>GitGuru</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>GitGuru</name>
@@ -76,178 +76,178 @@
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-base</artifactId>
                 <version>1.0.0-SNAPSHOT</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-api</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-auth</artifactId>
                 <version>1.0-SNAPSHOT</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-gateway</artifactId>
                 <version>1.0-SNAPSHOT</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-notice</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-cache</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-sa-token</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-limiter</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-web</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-datasource</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-es</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-rpc</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-mq</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-lock</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-file</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-sms</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-config</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-collection</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-box</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-inventory</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-goods-interface</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-goods</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-pay</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-order</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-user</artifactId>
                 <version>${project.version}</version>
             </dependency>
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-trade</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-job</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-order-client</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-seata</artifactId>
                 <version>${project.version}</version>
             </dependency>
 
             <dependency>
-                <groupId>com.wx</groupId>
+                <groupId>com.donnan</groupId>
                 <artifactId>git-guru-promethues</artifactId>
                 <version>${project.version}</version>
             </dependency>
