@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="git-guru-user" />
+        <module name="git-guru-limiter" />
+        <module name="git-guru-config" />
+        <module name="git-guru-web" />
+        <module name="git-guru-lock" />
+        <module name="git-guru-cache" />
+        <module name="git-guru-notice" />
+        <module name="git-guru-sa-token" />
+        <module name="git-guru-job" />
+        <module name="git-guru-auth" />
+        <module name="git-guru-api" />
+        <module name="git-guru-es" />
+        <module name="git-guru-datasource" />
+        <module name="git-guru-rpc" />
+        <module name="git-guru-base" />
+        <module name="git-guru-mq" />
+        <module name="git-guru-gateway" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="git-guru-api" options="-parameters" />
+      <module name="git-guru-auth" options="-parameters" />
+      <module name="git-guru-base" options="-parameters" />
+      <module name="git-guru-cache" options="-parameters" />
+      <module name="git-guru-config" options="-parameters" />
+      <module name="git-guru-datasource" options="-parameters" />
+      <module name="git-guru-es" options="-parameters" />
+      <module name="git-guru-gateway" options="-parameters" />
+      <module name="git-guru-job" options="-parameters" />
+      <module name="git-guru-limiter" options="-parameters" />
+      <module name="git-guru-lock" options="-parameters" />
+      <module name="git-guru-mq" options="-parameters" />
+      <module name="git-guru-notice" options="-parameters" />
+      <module name="git-guru-rpc" options="-parameters" />
+      <module name="git-guru-sa-token" options="-parameters" />
+      <module name="git-guru-user" options="-parameters" />
+      <module name="git-guru-web" options="-parameters" />
+    </option>
+  </component>
+</project>
