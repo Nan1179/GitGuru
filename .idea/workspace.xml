@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c40b056a-99f1-4646-9409-22a15653753d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-auth/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-auth/src/main/java/com/donnan/git/guru/auth/GitGuruAuthApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-auth/src/main/java/com/donnan/git/guru/auth/controller/AuthController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-auth/src/main/java/com/donnan/git/guru/auth/exception/AuthErrorCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-auth/src/main/java/com/donnan/git/guru/auth/exception/AuthException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-auth/src/main/java/com/donnan/git/guru/auth/param/LoginParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-auth/src/main/java/com/donnan/git/guru/auth/param/RegisterParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-auth/src/main/java/com/donnan/git/guru/auth/vo/LoginVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-auth/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-auth/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/notice/constant/NoticeConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/notice/response/NoticeResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/notice/service/NoticeFacadeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/constant/UserOperateTypeEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/constant/UserPermission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/constant/UserRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/constant/UserStateEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/constant/UserType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/request/UserActiveRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/request/UserAuthRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/request/UserModifyRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/request/UserPageQueryRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/request/UserQueryRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/request/UserRegisterRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/request/condition/UserIdQueryCondition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/request/condition/UserPhoneAndPasswordQueryCondition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/request/condition/UserPhoneQueryCondition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/request/condition/UserQueryCondition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/response/UserOperatorResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/response/UserQueryResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/response/data/BasicUserInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/response/data/UserInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-api/src/main/java/com/donnan/git/guru/api/user/service/UserFacadeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/java/com/donnan/git/guru/base/config/BaseConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/java/com/donnan/git/guru/base/exception/BizErrorCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/java/com/donnan/git/guru/base/exception/BizException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/java/com/donnan/git/guru/base/exception/ErrorCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/java/com/donnan/git/guru/base/exception/RemoteCallException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/java/com/donnan/git/guru/base/exception/RepoErrorCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/java/com/donnan/git/guru/base/exception/SystemException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/java/com/donnan/git/guru/base/request/BaseRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/java/com/donnan/git/guru/base/request/PageRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/java/com/donnan/git/guru/base/response/BaseResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/java/com/donnan/git/guru/base/response/MultiResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/java/com/donnan/git/guru/base/response/PageResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/java/com/donnan/git/guru/base/response/ResponseCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/java/com/donnan/git/guru/base/response/RestResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/java/com/donnan/git/guru/base/response/SingleResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/java/com/donnan/git/guru/base/utils/BeanValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/java/com/donnan/git/guru/base/utils/SpringContextHolder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/java/com/donnan/git/guru/base/validator/IsMobile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/java/com/donnan/git/guru/base/validator/MobileValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/resources/base.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-base/src/main/resources/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-cache/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-cache/src/main/java/com/donnan/git/guru/cache/config/CacheConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-cache/src/main/java/com/donnan/git/guru/cache/constant/CacheConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-cache/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-cache/src/main/resources/cache.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-config/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-config/src/main/resources/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-datasource/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-datasource/src/main/java/com/donnan/git/guru/datasource/domain/entity/BaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-datasource/src/main/java/com/donnan/git/guru/datasource/handler/DataObjectHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-es/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-job/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-limiter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-lock/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-lock/src/main/java/com/donnan/git/guru/lock/DistributeLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-lock/src/main/java/com/donnan/git/guru/lock/DistributeLockAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-lock/src/main/java/com/donnan/git/guru/lock/DistributeLockConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-lock/src/main/java/com/donnan/git/guru/lock/DistributeLockException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-lock/src/main/java/com/donnan/git/guru/lock/config/DistributeLockConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-lock/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-mq/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-rpc/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-rpc/src/main/java/com/donnan/git/guru/rpc/config/RpcConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-rpc/src/main/java/com/donnan/git/guru/rpc/facade/Facade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-rpc/src/main/java/com/donnan/git/guru/rpc/facade/FacadeAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-rpc/src/main/resources/META-INF/spring/org.springframework.boot.autoconfigure.AutoConfiguration.imports" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-rpc/src/main/resources/rpc.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-sa-token/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-web/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-web/src/main/java/com/donnan/git/guru/web/configuration/WebConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-web/src/main/java/com/donnan/git/guru/web/filter/TokenFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-web/src/main/java/com/donnan/git/guru/web/handler/GlobalWebExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-web/src/main/java/com/donnan/git/guru/web/vo/MultiResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/git-guru-web/src/main/java/com/donnan/git/guru/web/vo/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-gateway/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-gateway/src/main/java/com/donnan/git/guru/gateway/GitGuruGatewayApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-gateway/src/main/java/com/donnan/git/guru/gateway/auth/SaTokenConfigure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-gateway/src/main/java/com/donnan/git/guru/gateway/auth/StpInterfaceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-gateway/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-gateway/src/main/resources/bootstrap.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-gateway/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-service/git-guru-notice/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-service/git-guru-user/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-service/git-guru-user/src/main/java/com/donnan/git/guru/user/GitGuruUserApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-service/git-guru-user/src/main/java/com/donnan/git/guru/user/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-service/git-guru-user/src/main/java/com/donnan/git/guru/user/domain/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-service/git-guru-user/src/main/java/com/donnan/git/guru/user/domain/entity/UserOperateStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-service/git-guru-user/src/main/java/com/donnan/git/guru/user/domain/entity/convertor/UserConvertor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-service/git-guru-user/src/main/java/com/donnan/git/guru/user/domain/service/UserCacheDelayDeleteService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-service/git-guru-user/src/main/java/com/donnan/git/guru/user/domain/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-service/git-guru-user/src/main/java/com/donnan/git/guru/user/facade/UserFacadeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-service/git-guru-user/src/main/java/com/donnan/git/guru/user/infrastructure/exception/UserErrorCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-service/git-guru-user/src/main/java/com/donnan/git/guru/user/infrastructure/exception/UserException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-service/git-guru-user/src/main/java/com/donnan/git/guru/user/infrastructure/mapper/AesEncryptTypeHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-service/git-guru-user/src/main/java/com/donnan/git/guru/user/infrastructure/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-service/git-guru-user/src/main/java/com/donnan/git/guru/user/infrastructure/util/AesUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-service/git-guru-user/src/main/java/com/donnan/git/guru/user/param/UserModifyParam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-guru-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nan1179&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Nan1179/GitGuru.git&quot;,
+    &quot;accountId&quot;: &quot;44a30842-1fb1-4735-ba2d-995dc388efad&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2uo1zrNxlZhxGQFhqd5Wx8ofBhy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "wx",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/java/workspace/GitGuru/backend",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c40b056a-99f1-4646-9409-22a15653753d" name="Changes" comment="" />
+      <created>1742900379184</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742900379184</updated>
+      <workItem from="1742900380334" duration="9000" />
+      <workItem from="1742900399695" duration="100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
