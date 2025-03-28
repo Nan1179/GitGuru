@@ -1,5 +1,5 @@
 spring:
   application:
-    name: git-guru-gateway
+    name: @application.name@
   config:
     import: classpath:base.yml,classpath:config.yml

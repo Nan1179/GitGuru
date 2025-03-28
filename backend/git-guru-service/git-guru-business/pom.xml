@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>git-guru-user</artifactId>
+    <artifactId>git-guru-business</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
@@ -26,6 +26,11 @@
         <dependency>
             <groupId>com.donnan</groupId>
             <artifactId>git-guru-base</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.donnan</groupId>
+            <artifactId>git-guru-sa-token</artifactId>
         </dependency>
 
         <dependency>
