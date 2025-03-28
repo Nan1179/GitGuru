@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c40b056a-99f1-4646-9409-22a15653753d" name="Changes" comment="" />
+    <list default="true" id="c40b056a-99f1-4646-9409-22a15653753d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/backend/git-guru-service/git-guru-business/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/git-guru-service/git-guru-business/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +88,7 @@
       <workItem from="1742900399695" duration="100000" />
       <workItem from="1742900505894" duration="2471000" />
       <workItem from="1743165286447" duration="41000" />
+      <workItem from="1743171011086" duration="12000" />
     </task>
     <servers />
   </component>
