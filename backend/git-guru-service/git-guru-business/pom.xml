@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>git-guru-user</artifactId>
+    <artifactId>git-guru-business</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
@@ -26,6 +26,11 @@
         <dependency>
             <groupId>com.donnan</groupId>
             <artifactId>git-guru-base</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>com.donnan</groupId>
+            <artifactId>git-guru-sa-token</artifactId>
         </dependency>
 
         <dependency>
@@ -68,6 +73,8 @@
             </exclusions>
         </dependency>
 
+
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
@@ -80,8 +87,13 @@
             <scope>test</scope>
         </dependency>
 
-        <!--        h2内存数据库-->
+        <dependency>
+            <groupId>javax.annotation</groupId>
+            <artifactId>javax.annotation-api</artifactId>
+            <version>1.3.2</version>
+        </dependency>
 
+        <!--        h2内存数据库-->
         <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>

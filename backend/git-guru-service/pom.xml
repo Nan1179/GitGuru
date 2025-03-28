@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>git-guru-user</module>
+        <module>git-guru-business</module>
     </modules>
 
     <properties>

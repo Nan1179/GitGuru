@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: @application.name@
+  config:
+    import: classpath:base.yml,classpath:datasource.yml,classpath:cache.yml,classpath:rpc.yml
+
+server:
+  port: 8083
+
+#dubbo:
+#  protocol:
+#    port: 20889
+#  application:
+#    qos-port: 33333
